@@ -14,13 +14,17 @@
     "@angular/router": "~15.2.0",
     "@nativescript/angular": "^15.0.0",
     "@nativescript/core": "~8.5.0",
+    "@nativescript/google-maps": "^1.6.0",
+    "@nativescript/google-maps-utils": "file:./google-maps-utils",
     "@nativescript/theme": "~3.0.2",
+    "nativescript-environment-variables-hook": "^1.0.5",
     "rxjs": "~7.6.0",
     "zone.js": "~0.13.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~15.2.0",
     "@angular/compiler-cli": "~15.2.0",
+    "@nativescript/android": "8.5.4",
     "@nativescript/types": "~8.5.0",
     "@nativescript/webpack": "~5.0.14",
     "@ngtools/webpack": "~15.2.0",
